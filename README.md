@@ -1,16 +1,20 @@
-## Hi there 👋
+<h1 align="center">Hi 👋, I'm Karthik Ponna</h1>
+<h3 align="center">Applied AI | LLMs | NLP | ML</h3>
 
-<!--
-**karthikponna/karthikponna** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 🔭 My latest projects: **[Bitcoin Price Prediction MLOps](https://github.com/karthikponna/Bitcoin_Price_Prediction_MLOps), [Predictive Maintenance MLOps](https://github.com/karthikponna/Predictive_Maintenance_MLOps)**
 
-Here are some ideas to get you started:
+- 🌱 I’m currently learning **AI Agents**
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 💪 Currently writing blogs at [**Analytics Vidhya**](https://www.analyticsvidhya.com/blog/author/karthik3852845/)
+
+- 🤝 You can find me on [**LinkedIn**](https://www.linkedin.com/in/karthik-ponna/)
+
+- 🐥 I'm also on [**Twitter**](https://x.com/karthikponna19)
+
+- 💬 Ask me about **AI, RAG, LLMs, NLP, ML**
+
+- 📫 You can reach out to me at **karthikponna963@gmail.com**
+
+- 📄 Know about my [**experiences**](https://docs.google.com/document/d/1zAnu-VWBdkchzQSeMBOE4chPb2I4AG8NTOlglg5ATBA/edit?usp=sharing)
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=karthikponna&" alt="karthikponna" /></p>
