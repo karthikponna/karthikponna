@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **AI Agents**
 
-- 💪 Currently writing blogs at [**Analytics Vidhya**](https://www.analyticsvidhya.com/blog/author/karthik3852845/)
+- 💪 Currently working as Machine Learning Engineer at **Antern**
 
 - 🤝 You can find me on [**LinkedIn**](https://www.linkedin.com/in/karthik-ponna/)
 
