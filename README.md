@@ -7,14 +7,12 @@
 
 - 💪 Currently working as Software Engineer Intern at **Second Brain Labs**
 
-- 🤝 You can find me on [**LinkedIn**](https://www.linkedin.com/in/karthik-ponna/)
+- 🤝 You can find me on [**LinkedIn**](https://www.linkedin.com/in/karthik-ponna/) [**Twitter**](https://x.com/karthikponna19)
 
-- 🐥 I'm also on [**Twitter**](https://x.com/karthikponna19)
-
-- 💬 Ask me about **AI, RAG, LLMs, NLP, ML**
+- 💬 Ask me about **AI, Agents, RAG, LLMs, NLP, MLOps**
 
 - 📫 You can reach out to me at **karthikponna963@gmail.com**
 
-- 📄 Know about my [**experiences**](https://drive.google.com/file/d/1lMTeZAIdh03uYtdBmoFwdVC5ts7DZXek/view?usp=sharing)
+- 📄 Know about my [**experiences**](https://drive.google.com/file/d/1Zs01XWFyo2DDBMTy0zf2qU3mRgAZQAgH/view?usp=sharing)
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=karthikponna&" alt="karthikponna" /></p>
