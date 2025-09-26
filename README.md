@@ -3,9 +3,9 @@
 
 - 🔭 My latest projects: **[Chat with Audios an Intent-Based RAG](https://github.com/karthikponna/chat_with_audios), [Bitcoin Price Prediction MLOps](https://github.com/karthikponna/Bitcoin_Price_Prediction_MLOps), [Predictive Maintenance MLOps](https://github.com/karthikponna/Predictive_Maintenance_MLOps)**
 
-- 🌱 I’m currently exploring **AI Agents**
+- 🌱 I’m currently exploring **AI Agents, LLMOps**
 
-- 💪 Currently working as Software Engineer Intern at **Second Brain Labs**
+- 💪 Ex-Software Engineer Intern at **Second Brain Labs**
 
 - 🤝 You can find me on [**LinkedIn**](https://www.linkedin.com/in/karthik-ponna/) [**Twitter**](https://x.com/karthikponna19)
 
