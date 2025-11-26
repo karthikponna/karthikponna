@@ -9,7 +9,7 @@
 
 - 🤝 You can find me on [**LinkedIn**](https://www.linkedin.com/in/karthik-ponna/) [**Twitter**](https://x.com/karthikponna19)
 
-- 💬 Ask me about **AI, Agents, RAG, LLMs, NLP, MLOps**
+- 💬 Ask me about **AI, Agents, RAG, LLMs, NLP, MLOps, LLMOps**
 
 - 📫 You can reach out to me at **karthikponna963@gmail.com**
 
